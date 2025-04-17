@@ -24,7 +24,6 @@
 #### Web-sites:
 - [Smart Funding](https://trello.com/b/4wXfksAl/smartfunding)
 - [Tallin](https://trello.com/b/FePZPDvG/tallinn)
-- [Royal House]()
 - [9Courses](https://trello.com/b/AOLjIflx/9courses)
 - [Zhk Vorobev](https://trello.com/b/qinhORgK/zhk-vorobev)
 
